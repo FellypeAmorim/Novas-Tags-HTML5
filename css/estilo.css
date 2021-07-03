@@ -16,3 +16,15 @@ footer {
 	margin: 0;
 	text-align: center;
 }
+
+article {
+	background: orange;
+}
+
+section {
+	border: 1px dotted #fff;
+}
+
+aside {
+	background: blue;
+}
